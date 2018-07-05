@@ -4,7 +4,8 @@
   "description": "This is a project to leanr TDD at Ada.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
